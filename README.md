@@ -123,7 +123,8 @@
 <td style="width: 163px;">
 <p><strong>Test Report path</strong></p>
 </td>
-<td style="width: 589.988px;"><strong>HTML Report</strong>: Project folder-->target/Cucumber-html-report/index.html<strong>JVM Cucumber Report</strong>: Project Folder---> target/Cucumber-JVM-Reports/cucumber-html-reports/feature-overview.html</td>
+<td style="width: 589.988px;"><strong>HTML Report</strong>: Project folder-->target/Cucumber-html-report/index.html
+  <strong>JVM Cucumber Report</strong>: Project Folder---> target/Cucumber-JVM-Reports/cucumber-html-reports/feature-overview.html</td>
 </tr>
 </tbody>
 </table>
